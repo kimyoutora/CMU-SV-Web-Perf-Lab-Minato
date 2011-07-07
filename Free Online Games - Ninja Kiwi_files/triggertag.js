@@ -11,18 +11,18 @@ function getTrigger(id, isDynamic) {
 			}
 		}
 		
-	  document.write('<script src="http://cdn.assets.craveonline.com/js/tracking/gn_tracking.js" type="text/javascript"><\/script>');		
+	  document.write('<script src="./Free Online Games - Ninja Kiwi_files/gn_tracking.js" type="text/javascript"><\/script>');		
 	  
 	  if (gn_country == "") {
-		document.write('<script src="http://geo.gorillanation.com/geo.php?dynamic='+parseInt(0|isDynamic)+'&website_id=' + id + '" type="text/javascript"><\/script>');
+		document.write('<script src="./Free Online Games - Ninja Kiwi_files/geo.php?dynamic='+parseInt(0|isDynamic)+'&website_id=' + id + '" type="text/javascript"><\/script>');
 	  }
 	  else 
 	  {
 	  	if (typeof(isDynamic)=='undefined' || isDynamic == false) {
-			document.write('<script src="http://cdn.triggertag.gorillanation.com/js/' + id + '_' + gn_country + '.php" type="text/javascript"><\/script>');		  	
+			document.write('<script src="./Free Online Games - Ninja Kiwi_files/' + id + '_' + gn_country + '.php" type="text/javascript"><\/script>');		  	
 	  	}
 		else {
-			document.write('<script src="http://cdn.triggertag.gorillanation.com/js/' + id + '_' + gn_country + '_manifest.php" type="text/javascript"><\/script>');	  
+			document.write('<script src="./Free Online Games - Ninja Kiwi_files/' + id + '_' + gn_country + '_manifest.php" type="text/javascript"><\/script>');	  
 		} 	  
 	  }	  		
 }
