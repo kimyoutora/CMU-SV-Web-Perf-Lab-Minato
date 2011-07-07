@@ -11,18 +11,18 @@ function getTrigger(id, isDynamic) {
 			}
 		}
 		
-	  document.write('<script src="gn_tracking.js" type="text/javascript"><\/script>');		
+	  document.write('<script src="js/gn_tracking.js" type="text/javascript"><\/script>');		
 	  
 	  if (gn_country == "") {
-		document.write('<script src="geo.php?dynamic='+parseInt(0|isDynamic)+'&website_id=' + id + '" type="text/javascript"><\/script>');
+		document.write('<script src="js/geo.php?dynamic='+parseInt(0|isDynamic)+'&website_id=' + id + '" type="text/javascript"><\/script>');
 	  }
 	  else 
 	  {
 	  	if (typeof(isDynamic)=='undefined' || isDynamic == false) {
-			document.write('<script src="' + id + '_' + gn_country + '.php" type="text/javascript"><\/script>');		  	
+			document.write('<script src="js/' + id + '_' + gn_country + '.php" type="text/javascript"><\/script>');		  	
 	  	}
 		else {
-			document.write('<script src="' + id + '_' + gn_country + '_manifest.php" type="text/javascript"><\/script>');	  
+			document.write('<script src="js/' + id + '_' + gn_country + '_manifest.php" type="text/javascript"><\/script>');	  
 		} 	  
 	  }	  		
 }
