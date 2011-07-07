@@ -515,7 +515,7 @@ ul.flags li a {
 }
 ul.flags li a span {
 	display:inline-block;
-	background: url(../../sprites/SpriteSheetFlags.png) 0px center no-repeat;
+	background: url(../images/SpriteSheetFlags.png) 0px center no-repeat;
 	padding: 0px;
 	height:100%;
 	width:16px;
