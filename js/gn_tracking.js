@@ -112,7 +112,7 @@ var gn_tracking = {
 		var that = this;
 
 		this.add_script(
-			(document.location.protocol == 'https:' ? 'https://sb' : 'http://b')+".scorecardresearch.com/beacon.js",
+			"js/beacon.js",
 			function() {
 				// Standard Comscore payload
 				COMSCORE.beacon(that.config.comscore);
