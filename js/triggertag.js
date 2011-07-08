@@ -14,7 +14,7 @@ function getTrigger(id, isDynamic) {
 	  document.write('<script src="js/gn_tracking.js" type="text/javascript"><\/script>');		
 	  
 	  if (gn_country == "") {
-		document.write('<script src="/js/geo.php?dynamic='+parseInt(0|isDynamic)+'&website_id=' + id + '" type="text/javascript"><\/script>');
+		document.write('<script src="js/geo.php?dynamic='+parseInt(0|isDynamic)+'&website_id=' + id + '" type="text/javascript"><\/script>');
 	  }
 	  else 
 	  {
