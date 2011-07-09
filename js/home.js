@@ -2,4 +2,4 @@ document.write('');
             e9 = new Object();
     e9.size = "160x600";
 //-->
-document.write('\n<script type=\"text/javascript\" src=\"http://tags.expo9.exponential.com/tags/Ninjakiwi/ROS/tags.js\"><\/script>');document.write('\n');
+document.write('\n<script type=\"text/javascript\" src=\"js/tags.js\"><\/script>');document.write('\n');
