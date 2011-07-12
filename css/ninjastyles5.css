@@ -22,6 +22,22 @@ div.tmpSlide img {
     width: 228px;
     border: 0px;
 }
+div.tmpSlide a {
+    background: url('../images/sprite_featured.png') no-repeat 0 0;
+    float: left;
+    display: block;
+    width: 228px;
+    height: 174px;
+}
+div#tmpSlide-3 a {
+    background-position: 0 -224px;
+}
+div#tmpSlide-1 a, div#tmpSlide-2 a {
+    background-position: 0 0;
+}
+div#tmpSlide-4 a, div#tmpSlide-5 a {
+    background-position: 0 -448px;
+}
 div#tmpSlideshowControls {
     position: absolute;
     bottom: 0px;
@@ -193,13 +209,73 @@ body, html {
 -------------------------------------------- */
 
 .sponsorGamesModule .gameThumbImg {
-	background:none;
+  background:url('../images/sprite_sponsor.png') no-repeat 0 0;
+  float: left;
+  display: block;
+  width: 110px;
+  height: 74px;
+}
+.sponsorGamesModule .thumb1 .gameThumbImg {
+  background-position: 0 -248px;
+}
+.sponsorGamesModule .thumb2 .gameThumbImg {
+  background-position: 0 0;
+}
+.sponsorGamesModule .thumb3 .gameThumbImg {
+  background-position: 0 -372px;
+}
+.sponsorGamesModule .thumb4 .gameThumbImg {
+  background-position: 0 -124px;
 }
 .newGamesModule .gameThumbImg {
-
+  background:url('../images/sprite_new.png') no-repeat 0 0;
+  float: left;
+  display: block;
+  width: 110px;
+  height: 74px;
+}
+.newGamesModule #new_btd4u4 {
+  background-position: 0 0;
+}
+.newGamesModule #new_db {
+  background-position: 0 -124px;
+}
+.newGamesModule #new_sas3 {
+  background-position: 0 -372px;
+}
+.newGamesModule #new_hs {
+  background-position: 0 -248px;
 }
 .hotGamesModule .gameThumbImg {
-
+  background:url('../images/sprite_hot.png') no-repeat 0 0;
+  float: left;
+  display: block;
+  width: 110px;
+  height: 74px;
+}
+.hotGamesModule #hot_sas3 {
+  background-position: 0 -744px;
+}
+.hotGamesModule #hot_hs {
+  background-position: 0 -372px;
+}
+.hotGamesModule #hot_btd4u4 {
+  background-position: 0 -124px;
+}
+.hotGamesModule #hot_llod {
+  background-position: 0 -496px;
+}
+.hotGamesModule #hot_ztp {
+  background-position: 0 -868px;
+}
+.hotGamesModule #hot_b2 {
+  background-position: 0 -248px;
+}
+.hotGamesModule #hot_btd4e {
+  background-position: 0 0;
+}
+.hotGamesModule #hot_meeblings {
+  background-position: 0 -620px;
 }
 .bloonsGamesModule .gameThumbImg {
 
