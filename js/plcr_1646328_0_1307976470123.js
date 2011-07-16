@@ -322,7 +322,6 @@
                     + creative.asContext + "&assetType=" + type + "&expEnv=" + this.expEnvironment;
                 this.allowtransparency = "true"; 
               }
-              /*
               if(typeof(richMediaIFrameCreatives) != "undefined" && richMediaIFrameCreatives["1307976469847"]) {
                 var core = new RichMediaCore_60_10();
                 var breakoutCreative = self.richMediaIFrameCreatives["1307976469847"];
@@ -363,5 +362,4 @@
                 RichMediaCore_60_10.prototype.trackCsiEvent("gb");  
                 document.write('<scr' + 'ipt src="' + baseCreative.globalTemplateJs + '" language="JavaScript"></scr' + 'ipt>');
               }
-              RichMediaCore_60_10.prototype.trackCsiEvent("pe")
-              */
+              RichMediaCore_60_10.prototype.trackCsiEvent("pe") 
