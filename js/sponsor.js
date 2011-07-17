@@ -8,7 +8,7 @@ var cpmStarTitleString = cpmStar.getTitle();
 if (cpmStarTitleString .length > maxLength) {
   cpmStarTitleString  = cpmStarTitleString.substr(0, maxLength - 3) + '...';
 }
-cpmstar_li1.innerHTML = "<a class='gameThumbWrapper thumb1' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
+cpmstar_li1.innerHTML = "<a class='gameThumbWrapper thumb1' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'><img src='"+cpmStar.getImageUrl(110,74)+"' width='110' height='74'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
 cpmstar_src.parentNode.insertBefore(cpmstar_li1, cpmstar_src);
 cpmStar.nextAd();
 //2nd editorial
@@ -18,7 +18,7 @@ var cpmStarTitleString = cpmStar.getTitle();
 if (cpmStarTitleString .length > maxLength) {
   cpmStarTitleString  = cpmStarTitleString.substr(0, maxLength - 3) + '...';
 }
-cpmstar_li2.innerHTML = "<a class='gameThumbWrapper thumb2' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
+cpmstar_li2.innerHTML = "<a class='gameThumbWrapper thumb2' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'><img src='"+cpmStar.getImageUrl(110,74)+"' width='110' height='74'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
 cpmstar_src.parentNode.insertBefore(cpmstar_li2, cpmstar_src);
 cpmStar.nextAd();
 //3rd editorial
@@ -28,7 +28,7 @@ var cpmStarTitleString = cpmStar.getTitle();
 if (cpmStarTitleString .length > maxLength) {
   cpmStarTitleString  = cpmStarTitleString.substr(0, maxLength - 3) + '...';
 }
-cpmstar_li3.innerHTML = "<a class='gameThumbWrapper thumb3' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
+cpmstar_li3.innerHTML = "<a class='gameThumbWrapper thumb3' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'><img src='"+cpmStar.getImageUrl(110,74)+"' width='110' height='74'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
 cpmstar_src.parentNode.insertBefore(cpmstar_li3, cpmstar_src);
 cpmStar.nextAd();
 //4th editorial
@@ -38,6 +38,6 @@ var cpmStarTitleString = cpmStar.getTitle();
 if (cpmStarTitleString .length > maxLength) {
   cpmStarTitleString  = cpmStarTitleString.substr(0, maxLength - 3) + '...';
 }
-cpmstar_li4.innerHTML = "<a class='gameThumbWrapper thumb4' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
+cpmstar_li4.innerHTML = "<a class='gameThumbWrapper thumb4' href='"+cpmStar.getLink()+"'> <span class='gameThumbImg'><img src='"+cpmStar.getImageUrl(110,74)+"' width='110' height='74'></span> <span class='gameTitle'>"+cpmStarTitleString+"</span> </a>";
 cpmstar_src.parentNode.insertBefore(cpmstar_li4, cpmstar_src);
 cpmStar.nextAd();
