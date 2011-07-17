@@ -23,7 +23,7 @@ div.tmpSlide img {
     border: 0px;
 }
 div.tmpSlide a {
-    background: url('http://cdn.webperflab.com/minato/1_2/images/sprite_games_lg.png') no-repeat 0 0;
+    background: url('http://cdn.webperflab.com/minato/1_2_3/images/sprite_games_lg.png') no-repeat 0 0;
     float: left;
     display: block;
     width: 228px;
@@ -48,7 +48,7 @@ div.tmpSlideshowControl {
     border: none;
     float: left;
     margin: 0 2px 0 0;
-    background: url('http://cdn.webperflab.com/minato/1_2/images/slideshow-circles.png') top no-repeat;
+    background: url('http://cdn.webperflab.com/minato/1_2_3/images/slideshow-circles.png') top no-repeat;
     width: 18px;
     height: 15px;
     color: #FFF;
@@ -63,10 +63,10 @@ div.tmpSlideshowControl span {
 	width:18px;
 }
 div.tmpSlideshowControlOn {
-    background: url('http://cdn.webperflab.com/minato/1_2/images/slideshow-circles.png') center no-repeat;
+    background: url('http://cdn.webperflab.com/minato/1_2_3/images/slideshow-circles.png') center no-repeat;
 }
 div.tmpSlideshowControlActive {
-    background: url('http://cdn.webperflab.com/minato/1_2/images/slideshow-circles.png') bottom no-repeat;
+    background: url('http://cdn.webperflab.com/minato/1_2_3/images/slideshow-circles.png') bottom no-repeat;
 }
 div.tmpSlideCopy {
     position: absolute;
@@ -90,7 +90,7 @@ div.tmpSlideCopy p {
 	display:block;
 	height:40px;
 	width:40px;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/Top-5-Thumbs.jpg) 0px 0px;;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/Top-5-Thumbs.jpg) 0px 0px;;
 	float:left;
 	margin: 0 4px 4px 0;
 	}
@@ -200,7 +200,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	background: transparent;
 }
 body, html {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/background-ninjas-blue.gif) #005284 repeat top left fixed;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/background-ninjas-blue.gif) #005284 repeat top left fixed;
 	font-size: 62.5%;/* Resets 1em to 10px */
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
 	height:100%
@@ -209,7 +209,7 @@ body, html {
 -------------------------------------------- */
 
 .sponsorGamesModule .gameThumbImg, .newGamesModule .gameThumbImg, .hotGamesModule .gameThumbImg {
-  background:url('http://cdn.webperflab.com/minato/1_2/images/sprite_games_med.png') no-repeat 0 0;
+  background:url('http://cdn.webperflab.com/minato/1_2_3/images/sprite_games_med.png') no-repeat 0 0;
   float: left;
   display: block;
   width: 110px;
@@ -293,7 +293,7 @@ body, html {
 
 #main {
 
-	background: url(http://cdn.webperflab.com/minato/1_2/images/background-scratchy.jpg) bottom center no-repeat;
+	background: url(http://cdn.webperflab.com/minato/1_2_3/images/background-scratchy.jpg) bottom center no-repeat;
 		background-color:#030303;
 }
 #inner-wrapper {
@@ -326,7 +326,7 @@ a img {
 }
 .title-block {
 	width:80%;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/module-header-background.png) left top no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/module-header-background.png) left top no-repeat;
 	font-size:1.2em;
 	line-height:23px;
 	padding-left:25px;
@@ -339,11 +339,11 @@ a img {
 	position:absolute;
 	top:0px;
 	right:0px;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/module-header-background.png) right top no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/module-header-background.png) right top no-repeat;
 }
 .module-header {
 	position:relative;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/module-header-background.png) left top no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/module-header-background.png) left top no-repeat;
 	padding-left:25px;
 	height:24px;
 	color:#fff;
@@ -368,11 +368,11 @@ span.heading-bullet {
 	height:100%
 }
 #header {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/header-footer.png) no-repeat top center;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/header-footer.png) no-repeat top center;
 	height:98px;
 }
 div#navigation {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/top-menu.bg.png) no-repeat top center;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/top-menu.bg.png) no-repeat top center;
 	height:30px;
 	width:982px;
 	margin: 0 auto 0 auto;
@@ -396,10 +396,10 @@ div#navigation ul li a  {
 	color:#FFF;
 	border-right: 1px solid #85B6E7;
 	text-decoration:none;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/top-menu.bg.png) no-repeat top center;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/top-menu.bg.png) no-repeat top center;
 }
 div#navigation ul li a:hover, div#navigation ul li.active a {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/top-menu.bg.png) no-repeat bottom center;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/top-menu.bg.png) no-repeat bottom center;
 }
 ul#menu-footer {
 	position:absolute;
@@ -428,7 +428,7 @@ ul#social-footer {
 	right:20px;
 }
 #social-footer li a {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/social-connect.png) no-repeat 2px 0px;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/social-connect.png) no-repeat 2px 0px;
 	height:32px;
 	font-size:1.5em;
 	float:right;
@@ -438,18 +438,18 @@ ul#social-footer {
 	line-height:28px
 }
 #social-footer li.fb a {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/social-connect.png) no-repeat 2px -64px;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/social-connect.png) no-repeat 2px -64px;
 }
 #social-footer li a:hover {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/social-connect.png) no-repeat 2px -32px;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/social-connect.png) no-repeat 2px -32px;
 	color:#FFF;
 }
 #social-footer li.fb a:hover {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/social-connect.png) no-repeat 2px -96px;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/social-connect.png) no-repeat 2px -96px;
 }
 #footer {
 	position:relative;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/header-footer.png) no-repeat bottom center;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/header-footer.png) no-repeat bottom center;
 	height:95px;
 	clear:both;
 }
@@ -457,11 +457,11 @@ ul#social-footer {
 	width:240px;
 	float:left;
 	height:211px;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/feature-game-background.png) no-repeat 2px bottom;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/feature-game-background.png) no-repeat 2px bottom;
 }
 #feature-games:hover {
 	height:211px;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/feature-game-background.png) no-repeat -246px bottom;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/feature-game-background.png) no-repeat -246px bottom;
 }
 #new-games {
 	width:246px;
@@ -480,10 +480,10 @@ ul#social-footer {
 		background-color:#FFF;
 }
 .ad-loader-light {
-		background:url(http://cdn.webperflab.com/minato/1_2/images/ajax-loader-white.gif) no-repeat center center;
+		background:url(http://cdn.webperflab.com/minato/1_2_3/images/ajax-loader-white.gif) no-repeat center center;
 }
 .ad-loader-dark {
-		background:url(http://cdn.webperflab.com/minato/1_2/images/ajax-loader-dark.gif) no-repeat center center;
+		background:url(http://cdn.webperflab.com/minato/1_2_3/images/ajax-loader-dark.gif) no-repeat center center;
 }
 
 .rounded {
@@ -528,7 +528,7 @@ ul#social-footer {
 	-webkit-border-radius: 5px;
 	overflow:auto;
 	background-color:transparent;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/transparency-repeat2.png) repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/transparency-repeat2.png) repeat;
 	border: 1px solid #333;
 	border-radius: 5px;
 }
@@ -604,27 +604,27 @@ ul {
 div.dark-module-scratch {
 	background-color:transparent;
 	border: 1px solid #555;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/trans-dark-tile.png) repeat-x;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/trans-dark-tile.png) repeat-x;
 	text-decoration:none;
 	overflow:visible;
 }
 div.dark-module-honeycomb {
 	background-color:transparent;
 	border: 1px solid #555;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/transparency-repeat-grad.png) top center repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/transparency-repeat-grad.png) top center repeat;
 }
 .dark-module-no-back {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/transparency-repeat.png) top center repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/transparency-repeat.png) top center repeat;
 	background-color:transparent;
 	border: 1px solid #555;
 }
 div.dark-module {
 	background-color:transparent;
 	border: 1px solid #555;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/transparency-repeat.png) repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/transparency-repeat.png) repeat;
 }
 div.dark-module2 {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/honey.png)top left no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/honey.png)top left no-repeat;
 	background-position: -7px 0px;
 	background-color:#fff;
 }
@@ -633,7 +633,7 @@ div.dark-module3 {
 	background-color:#fff;
 }
 div.dark-module4 {
-	background:url(http://cdn.webperflab.com/minato/1_2/images/background-scratchy-white.jpg) left -50px no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/background-scratchy-white.jpg) left -50px no-repeat;
 	background-color:#fff;
 }
 .game-description {
@@ -643,14 +643,14 @@ div.dark-module4 {
 	display:block;
 	position:relative;
 	margin-top:15px;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/feature-game-background.png) top left no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/feature-game-background.png) top left no-repeat;
 	width:238px;
 	height:196px;
 	border:none;
 }
 .dailyPlayWrap:hover {
 	text-decoration:inherit;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/feature-game-background.png) top right no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/feature-game-background.png) top right no-repeat;
 }
 .dailyPlayWrap img {
 	margin:3px 7px 5px 3px
@@ -684,7 +684,7 @@ span.pre-play-game-button {
 	width:188px;
 	height:60px;
 	margin: 10px 19px 0 0;
-	background:url(http://cdn.webperflab.com/minato/1_2/images/play-button.png) bottom center no-repeat;
+	background:url(http://cdn.webperflab.com/minato/1_2_3/images/play-button.png) bottom center no-repeat;
 	text-align:center;
 	line-height:57px;
 	color:#FFF;
@@ -750,7 +750,7 @@ ul.flags li a {
 }
 ul.flags li a span {
 	display:inline-block;
-	background: url(http://cdn.webperflab.com/minato/1_2/images/SpriteSheetFlags.png) 0px center no-repeat;
+	background: url(http://cdn.webperflab.com/minato/1_2_3/images/SpriteSheetFlags.png) 0px center no-repeat;
 	padding: 0px;
 	height:100%;
 	width:16px;
@@ -823,10 +823,10 @@ ul.flags li a span.F14 {
 	float: left;
 	position: relative;
 	margin: 0 0px 0 2px;
-	background: url(http://cdn.webperflab.com/minato/1_2/images/smallThumbBackground.png) 0px 0px scroll no-repeat;
+	background: url(http://cdn.webperflab.com/minato/1_2_3/images/smallThumbBackground.png) 0px 0px scroll no-repeat;
 }
 .gameModuleBox li:hover {
-	background: url(http://cdn.webperflab.com/minato/1_2/images/smallThumbBackground.png) -120px 0px scroll no-repeat;
+	background: url(http://cdn.webperflab.com/minato/1_2_3/images/smallThumbBackground.png) -120px 0px scroll no-repeat;
 }
 /* Set to block and applied to the A tag for useablity
  * makes the whole thumb clickable and works in ie6
