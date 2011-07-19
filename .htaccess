@@ -1,7 +1,0 @@
-<ifmodule mod_expires.c>
-  <filesmatch "\.(jpg|gif|png|css|js)$">
-       ExpiresActive on
-       ExpiresDefault "access plus 1 hour"
-       Header set Cache-Control "max-age=3600"
-   </filesmatch>
-</ifmodule>
